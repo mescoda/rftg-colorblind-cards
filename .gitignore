@@ -1,0 +1,4 @@
+# macOS and editor cruft
+.DS_Store
+*~
+*.swp
